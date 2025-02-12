@@ -20,14 +20,20 @@
   "description": "",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.5",
+    "axios": "^1.7.9",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "framer-motion": "^12.4.2",
     "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.475.0",
     "mailtrap": "^3.4.0",
-    "mongoose": "^8.10.0"
+    "mongoose": "^8.10.0",
+    "react-hot-toast": "^2.5.1",
+    "zustand": "^5.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",

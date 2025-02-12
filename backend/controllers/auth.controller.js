@@ -8,6 +8,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 
+
 export const signup = async (req, res) => {
 const {email, password, name} = req.body;
 
